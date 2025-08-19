@@ -2,7 +2,12 @@
 
 This is a Streamlit application that recommends movies based on your selection using the IMDB Top 1000 dataset from Kaggle.
 
-## How to Run
+
+## How to Run Standalone
+[TRY ME](https://movierecommender-tylerv.streamlit.app/)
+
+
+## How to Run the Project
 
 1. Install dependencies:
    ```
