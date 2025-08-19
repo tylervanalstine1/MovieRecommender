@@ -4,7 +4,7 @@ This is a Streamlit application that recommends movies based on your selection u
 
 
 ## How to Run Standalone
-[TRY ME](https://movierecommender-tylerv.streamlit.app/)
+[Test it for yourself!](https://movierecommender-tylerv.streamlit.app/)
 
 
 ## How to Run the Project
